@@ -1,0 +1,214 @@
+@import url("https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@400;500;600;700&display=swap");
+body {
+  background-color: #ecf2ff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 724px;
+  height: 512px;
+  border-top: 284px;
+  border-radius: 32px;
+  width: 100%;
+  flex-wrap: wrap;
+}
+.second-main {
+  background-color: #6943ff;
+  width: 368px;
+  height: 512px;
+  border-radius: 32px;
+  border-left: 352px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+}
+.text {
+  font-family: Hanken Grotesk;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 31.27px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #cac9ff;
+}
+
+.middle {
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  border: 1px solid #4d21c9;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: #ffffff;
+  background-color: #4d21c9;
+}
+.footer {
+  width: 260px;
+  height: 134px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.footer-text {
+  font-size: 18px;
+  color: #cac9ff;
+  text-align: center;
+  font-family: Hanken Grotesk;
+  line-height: 23.45px;
+  width: 230px;
+}
+.number {
+  font-size: 72px;
+  text-align: center;
+  line-height: 72px;
+  margin: 0;
+}
+.second-number {
+  font-size: 18px;
+  line-height: 23.45px;
+  color: #cac9ff;
+}
+.circle-center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 81px;
+  height: 99px;
+}
+.second-text {
+  color: #ffffff;
+}
+.rightboxtext {
+  font-family: Hanken Grotesk;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 31.27px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #303b59;
+  margin-right: 180px;
+}
+.rightbox {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 360px;
+  height: 490px;
+  align-items: center;
+  gap: 25px;
+  padding: 10px;
+  border: none;
+  border-radius: 20px;
+  background-color: #fff;
+}
+.rightmid {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.midborder {
+  width: 288px;
+  height: 56px;
+  border: 1px solid rgba(255, 0, 0, 0.1);
+  display: flex;
+  justify-content: space-around;
+  gap: 25px;
+  align-items: center;
+  background-color: rgba(255, 0, 0, 0.1);
+  border-radius: 12px;
+}
+.midborder2 {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  gap: 15px;
+}
+.rightnumbers {
+  display: flex;
+  gap: 5px;
+  color: #303b59;
+}
+.firstimage {
+  width: 11px;
+  height: 15px;
+}
+.bordertext1 {
+  color: red;
+}
+.rightnumbers2 {
+  font-weight: bolder;
+}
+.continuebutton {
+  background-color: #2f3a5a;
+  color: #ffffff;
+  border: none;
+  border-radius: 128px;
+  font-size: 18px;
+  width: 288px;
+  height: 56px;
+  cursor: pointer;
+}
+.midborder3 {
+  width: 288px;
+  height: 56px;
+  border: none;
+  display: flex;
+  justify-content: space-around;
+  gap: 25px;
+  align-items: center;
+  border-radius: 12px;
+  background-color: rgba(255, 255, 0, 0.1);
+}
+.mid-border3 {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  gap: 15px;
+}
+.midborder4 {
+  width: 288px;
+  height: 56px;
+  border: none;
+  display: flex;
+  justify-content: space-around;
+  gap: 25px;
+  align-items: center;
+  border-radius: 12px;
+  background-color: rgba(0, 255, 0, 0.1);
+}
+.mid-border4 {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  gap: 15px;
+}
+.midborder7 {
+  width: 288px;
+  height: 56px;
+  border: none;
+  display: flex;
+  justify-content: space-around;
+  gap: 25px;
+  align-items: center;
+  border-radius: 12px;
+  background-color: rgba(0, 0, 255, 0.1);
+}
+.mid-border7 {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  gap: 15px;
+}
